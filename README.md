@@ -15,4 +15,4 @@ This is a responsive and modern web page for Software Academy, built using Boots
 
 # 🌄Preview:
 
-![](./UdemigEdu..gif)# Udemig-Education
+![](./UdemigEdu..gif)
